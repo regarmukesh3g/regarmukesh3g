@@ -13,6 +13,24 @@
 
 ---
 
+### Contributions
+
+Most of my day-to-day work lives in private repositories at Flexport, under
+**[@regarmukesh](https://github.com/regarmukesh)** — that account carries the bulk of my commit history.
+
+<table>
+  <tr>
+    <td align="center"><b>Work — @regarmukesh</b></td>
+    <td align="center"><b>Personal — @regarmukesh3g</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/regarmukesh"><img src="https://streak-stats.demolab.com/?user=regarmukesh&hide_border=true&card_width=400" alt="Flexport work contributions"></a></td>
+    <td><a href="https://github.com/regarmukesh3g"><img src="https://streak-stats.demolab.com/?user=regarmukesh3g&hide_border=true&card_width=400" alt="Personal contributions"></a></td>
+  </tr>
+</table>
+
+---
+
 ### About
 
 Seven years building backend systems, currently on Flexport's global logistics platform. I work
@@ -25,9 +43,6 @@ unglamorous parts of making distributed systems behave under load.
 - Built a tech-debt prioritisation tool on Wiz, Jira and Datadog telemetry
 
 B.Tech in Computer Science, **IIT (ISM) Dhanbad**.
-
-> Most of my day-to-day work lives in private repositories at Flexport, on
-> [@regarmukesh](https://github.com/regarmukesh). This account holds my personal and open-source work.
 
 ---
 
