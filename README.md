@@ -20,12 +20,12 @@ day-to-day work at Flexport, and this one for open source and side projects.
 
 <p align ="center">
     <b>Work — <a href="https://github.com/regarmukesh">@regarmukesh</a></b><br>
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh&theme=github-dark-blue" alt="regarmukesh" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue" alt="regarmukesh" />
 </p>
 
 <p align ="center">
     <b>Personal — <a href="https://github.com/regarmukesh3g">@regarmukesh3g</a></b><br>
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue" alt="regarmukesh3g" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue" alt="regarmukesh3g" />
 </p>
 
 ---
