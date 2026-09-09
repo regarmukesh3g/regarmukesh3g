@@ -21,13 +21,13 @@ day-to-day work at Flexport, and this one for open source and side projects.
 **Work — [@regarmukesh](https://github.com/regarmukesh)**
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue&hide_border=true" alt="Flexport work contributions">
+  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue&hide_border=true&type=png" alt="Flexport work contributions">
 </p>
 
 **Personal — [@regarmukesh3g](https://github.com/regarmukesh3g)**
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Personal contributions">
+  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true&type=png" alt="Personal contributions">
 </p>
 
 <p align="center">
