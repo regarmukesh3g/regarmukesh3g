@@ -18,21 +18,22 @@
 I contribute from two accounts: **[@regarmukesh](https://github.com/regarmukesh)** for
 day-to-day work at Flexport, and this one for open source and side projects.
 
-**Work — [@regarmukesh](https://github.com/regarmukesh)**
+| | **Work — [@regarmukesh](https://github.com/regarmukesh)** | **Personal — [@regarmukesh3g](https://github.com/regarmukesh3g)** |
+|---|---|---|
+| Contributions, last year | **1,527** | **45** |
+| Of those, in private repos | 1,527 | 24 |
+| Total contributions, all time | **2,305** | **114** |
+| Active since | Sep 2024 | Jul 2017 |
+| What lives there | Flexport — private repositories | Open source and side projects |
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue&hide_border=true" alt="Flexport work contributions">
+  <img width="495" src="https://ghchart.rshah.org/409ba5/regarmukesh" alt="Work contribution graph — @regarmukesh"><br>
+  <sub>@regarmukesh — Flexport</sub>
 </p>
 
-**Personal — [@regarmukesh3g](https://github.com/regarmukesh3g)**
-
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Personal contributions">
-</p>
-
-<p align="center">
-  <sub>Work repositories are private, so the commits behind the first tile are not browsable —
-  only the contribution counts are public.</sub>
+  <img width="495" src="https://ghchart.rshah.org/409ba5/regarmukesh3g" alt="Personal contribution graph — @regarmukesh3g"><br>
+  <sub>@regarmukesh3g — open source</sub>
 </p>
 
 ---
