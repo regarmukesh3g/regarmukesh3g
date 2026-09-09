@@ -19,11 +19,6 @@
   <img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
 </p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=regarmukesh3g&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regarmukesh3g&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
-</div>
-
 <p align="center">
   <sub>Day-to-day work at Flexport lives in private repositories under
   <a href="https://github.com/regarmukesh">@regarmukesh</a>, so it is not reflected above.</sub>
