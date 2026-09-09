@@ -18,22 +18,14 @@
 I contribute from two accounts: **[@regarmukesh](https://github.com/regarmukesh)** for
 day-to-day work at Flexport, and this one for open source and side projects.
 
-| | **Work — [@regarmukesh](https://github.com/regarmukesh)** | **Personal — [@regarmukesh3g](https://github.com/regarmukesh3g)** |
-|---|---|---|
-| Contributions, last year | **1,527** | **45** |
-| Of those, in private repos | 1,527 | 24 |
-| Total contributions, all time | **2,305** | **114** |
-| Active since | Sep 2024 | Jul 2017 |
-| What lives there | Flexport — private repositories | Open source and side projects |
-
-<p align="center">
-  <img width="495" src="https://ghchart.rshah.org/409ba5/regarmukesh" alt="Work contribution graph — @regarmukesh"><br>
-  <sub>@regarmukesh — Flexport</sub>
+<p align ="center">
+    <b>Work — <a href="https://github.com/regarmukesh">@regarmukesh</a></b><br>
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh&theme=github-dark-blue" alt="regarmukesh" />
 </p>
 
-<p align="center">
-  <img width="495" src="https://ghchart.rshah.org/409ba5/regarmukesh3g" alt="Personal contribution graph — @regarmukesh3g"><br>
-  <sub>@regarmukesh3g — open source</sub>
+<p align ="center">
+    <b>Personal — <a href="https://github.com/regarmukesh3g">@regarmukesh3g</a></b><br>
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue" alt="regarmukesh3g" />
 </p>
 
 ---
