@@ -15,13 +15,27 @@
 
 ### Stats 📊
 
-<p align="center">
-  <img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
-</p>
+I contribute from two accounts: **[@regarmukesh](https://github.com/regarmukesh)** for
+day-to-day work at Flexport, and this one for open source and side projects.
+
+<table>
+  <tr>
+    <td align="center"><b>Work — <a href="https://github.com/regarmukesh">@regarmukesh</a></b></td>
+    <td align="center"><b>Personal — <a href="https://github.com/regarmukesh3g">@regarmukesh3g</a></b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/regarmukesh"><img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh&theme=github-dark-blue&hide_border=true&card_width=440" alt="Flexport work contributions"></a>
+    </td>
+    <td>
+      <a href="https://github.com/regarmukesh3g"><img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true&card_width=440" alt="Personal contributions"></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub>Day-to-day work at Flexport lives in private repositories under
-  <a href="https://github.com/regarmukesh">@regarmukesh</a>, so it is not reflected above.</sub>
+  <sub>Work repositories are private, so the commits behind the left-hand tile are not browsable —
+  only the contribution counts are public.</sub>
 </p>
 
 ---
