@@ -18,14 +18,16 @@
 I contribute from two accounts: **[@regarmukesh](https://github.com/regarmukesh)** for
 day-to-day work at Flexport, and this one for open source and side projects.
 
-<p align="center">
-  <b>Work — <a href="https://github.com/regarmukesh">@regarmukesh</a></b><br>
-  <a href="https://github.com/regarmukesh"><img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh&theme=github-dark-blue&hide_border=true" alt="Flexport work contributions"></a>
-</p>
+**Work — [@regarmukesh](https://github.com/regarmukesh)**
 
 <p align="center">
-  <b>Personal — <a href="https://github.com/regarmukesh3g">@regarmukesh3g</a></b><br>
-  <a href="https://github.com/regarmukesh3g"><img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Personal contributions"></a>
+  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue&hide_border=true" alt="Flexport work contributions">
+</p>
+
+**Personal — [@regarmukesh3g](https://github.com/regarmukesh3g)**
+
+<p align="center">
+  <img width="495" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Personal contributions">
 </p>
 
 <p align="center">
