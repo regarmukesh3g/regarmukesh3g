@@ -15,19 +15,12 @@
 
 ### Contributions
 
-Most of my day-to-day work lives in private repositories at Flexport, under
-**[@regarmukesh](https://github.com/regarmukesh)** — that account carries the bulk of my commit history.
+I work across two accounts, and most of my commit history is private.
 
-<table>
-  <tr>
-    <td align="center"><b>Work — @regarmukesh</b></td>
-    <td align="center"><b>Personal — @regarmukesh3g</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/regarmukesh"><img src="https://streak-stats.demolab.com/?user=regarmukesh&hide_border=true&card_width=400" alt="Flexport work contributions"></a></td>
-    <td><a href="https://github.com/regarmukesh3g"><img src="https://streak-stats.demolab.com/?user=regarmukesh3g&hide_border=true&card_width=400" alt="Personal contributions"></a></td>
-  </tr>
-</table>
+| Account | What lives there |
+|---|---|
+| **[@regarmukesh](https://github.com/regarmukesh)** | Day-to-day work at Flexport — private repositories |
+| **[@regarmukesh3g](https://github.com/regarmukesh3g)** | This account — open source contributions and side projects |
 
 ---
 
