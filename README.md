@@ -13,14 +13,21 @@
 
 ---
 
-### Contributions
+### Stats 📊
 
-I work across two accounts, and most of my commit history is private.
+<p align="center">
+  <img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=regarmukesh3g&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
+</p>
 
-| Account | What lives there |
-|---|---|
-| **[@regarmukesh](https://github.com/regarmukesh)** | Day-to-day work at Flexport — private repositories |
-| **[@regarmukesh3g](https://github.com/regarmukesh3g)** | This account — open source contributions and side projects |
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=regarmukesh3g&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regarmukesh3g&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
+</div>
+
+<p align="center">
+  <sub>Day-to-day work at Flexport lives in private repositories under
+  <a href="https://github.com/regarmukesh">@regarmukesh</a>, so it is not reflected above.</sub>
+</p>
 
 ---
 
@@ -41,8 +48,26 @@ B.Tech in Computer Science, **IIT (ISM) Dhanbad**.
 
 ### Open Source
 
-- **[apache/airflow#72576](https://github.com/apache/airflow/pull/72576)** — fixed a crash when a
+**Merged**
+
+- **[apache/kafka#23324](https://github.com/apache/kafka/pull/23324)** — enforce a non-null
+  `groupState` in the `GroupListing` constructor, so an invalid listing fails at construction
+  rather than surfacing as a null downstream.
+
+**In review**
+
+- **[apache/kafka#23373](https://github.com/apache/kafka/pull/23373)** — declare `server` as an
+  api dependency of `core` (KAFKA-21011).
+- **[apache/kafka#23349](https://github.com/apache/kafka/pull/23349)** — stop `GroupsCommand`
+  exiting from `execute()`, which was masking failures.
+- **[apache/kafka#23232](https://github.com/apache/kafka/pull/23232)** — use `KafkaException`
+  instead of `RuntimeException` in the admin result classes.
+- **[apache/airflow#72576](https://github.com/apache/airflow/pull/72576)** — fix a crash when a
   metrics timer is stopped before it is started.
+- **[envoyproxy/envoy#47265](https://github.com/envoyproxy/envoy/pull/47265)** — use `size_t` for
+  the length argument of `Parser::execute`.
+- **[scikit-learn/scikit-learn#34879](https://github.com/scikit-learn/scikit-learn/pull/34879)** —
+  correct the description of `tol` in the k-means estimators.
 
 ---
 
