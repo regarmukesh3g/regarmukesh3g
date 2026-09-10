@@ -15,17 +15,13 @@
 
 ### Stats 📊
 
-I contribute from two accounts: **[@regarmukesh](https://github.com/regarmukesh)** for
-day-to-day work at Flexport, and this one for open source and side projects.
-
 <p align ="center">
-    <b>Work — <a href="https://github.com/regarmukesh">@regarmukesh</a></b><br>
-    <img width="500" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue" alt="regarmukesh" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue" alt="regarmukesh3g" />
 </p>
 
 <p align ="center">
-    <b>Personal — <a href="https://github.com/regarmukesh3g">@regarmukesh3g</a></b><br>
-    <img width="500" src="https://streak-stats.demolab.com/?user=regarmukesh3g&theme=github-dark-blue" alt="regarmukesh3g" />
+    <b>Work account — <a href="https://github.com/regarmukesh">@regarmukesh</a></b><br>
+    <img width="500" src="https://streak-stats.demolab.com/?user=regarmukesh&theme=github-dark-blue" alt="regarmukesh" />
 </p>
 
 ---
@@ -47,26 +43,14 @@ B.Tech in Computer Science, **IIT (ISM) Dhanbad**.
 
 ### Open Source
 
-**Merged**
+Projects I contribute to:
 
-- **[apache/kafka#23324](https://github.com/apache/kafka/pull/23324)** — enforce a non-null
-  `groupState` in the `GroupListing` constructor, so an invalid listing fails at construction
-  rather than surfacing as a null downstream.
-
-**In review**
-
-- **[apache/kafka#23373](https://github.com/apache/kafka/pull/23373)** — declare `server` as an
-  api dependency of `core` (KAFKA-21011).
-- **[apache/kafka#23349](https://github.com/apache/kafka/pull/23349)** — stop `GroupsCommand`
-  exiting from `execute()`, which was masking failures.
-- **[apache/kafka#23232](https://github.com/apache/kafka/pull/23232)** — use `KafkaException`
-  instead of `RuntimeException` in the admin result classes.
-- **[apache/airflow#72576](https://github.com/apache/airflow/pull/72576)** — fix a crash when a
-  metrics timer is stopped before it is started.
-- **[envoyproxy/envoy#47265](https://github.com/envoyproxy/envoy/pull/47265)** — use `size_t` for
-  the length argument of `Parser::execute`.
-- **[scikit-learn/scikit-learn#34879](https://github.com/scikit-learn/scikit-learn/pull/34879)** —
-  correct the description of `tol` in the k-means estimators.
+<p align="center">
+  <a href="https://github.com/apache/kafka"><img src="https://img.shields.io/badge/apache/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="apache/kafka"></a>
+  <a href="https://github.com/apache/airflow"><img src="https://img.shields.io/badge/apache/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="apache/airflow"></a>
+  <a href="https://github.com/envoyproxy/envoy"><img src="https://img.shields.io/badge/envoyproxy/envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="envoyproxy/envoy"></a>
+  <a href="https://github.com/scikit-learn/scikit-learn"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn/scikit-learn"></a>
+</p>
 
 ---
 
